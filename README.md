@@ -1,2 +1,1 @@
-# FYRP
-FYRP-Renewable Energy Forecasting using neural networks
+Forecasting renwable Energy(PV energy and Wind Speed) for MicroGrids using CNN model 
